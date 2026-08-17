@@ -1,4 +1,4 @@
-#1563. Stone Game V(getting time limit exceed error)
+#1563.Stone Game V(getting time limit exceed error)
 class Solution:
     def stoneGameV(self, stoneValue: List[int]) -> int:
         n=len(stoneValue)
